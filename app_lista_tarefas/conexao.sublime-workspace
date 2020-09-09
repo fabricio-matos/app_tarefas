@@ -1,0 +1,525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"div",
+				"div1"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"ta",
+				"tarefas"
+			],
+			[
+				"taref",
+				"tarefas"
+			],
+			[
+				"id",
+				"id_status"
+			],
+			[
+				"T",
+				"TarefaService"
+			],
+			[
+				"tare",
+				"tarefaService"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"Ta",
+				"TarefaService"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"input",
+				"inputTarefa"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"con",
+				"conexao"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"nome",
+				"nome"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"s",
+				"stmt"
+			],
+			[
+				"senha",
+				"senha"
+			],
+			[
+				"Erro",
+				"Erro"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"my",
+				"mysql_close"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ba",
+				"banco"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"pas",
+				"pass"
+			],
+			[
+				"mysqli",
+				"mysqli_select_db"
+			],
+			[
+				"co",
+				"conexao"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"aba",
+				"aba01"
+			],
+			[
+				"bo",
+				"border-left\tproperty"
+			],
+			[
+				"borde",
+				"border\tproperty"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"i",
+				"align-items\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"firebird",
+				"Firebird"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ima",
+				"imagens"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bor",
+				"border-right\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"dad",
+				"dadosJSONObj"
+			],
+			[
+				"d",
+				"dataLancamento"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"xm",
+				"XMLFilmes"
+			],
+			[
+				"js",
+				"jsonFilmes"
+			],
+			[
+				"xml",
+				"XMLFilmes"
+			],
+			[
+				"get",
+				"getFilmes"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"img",
+				"imgLoading"
+			],
+			[
+				"g",
+				"gif"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/fbmjo/OneDrive/Desktop/jquery/recuperando_manipulando_conteudo.html",
+		"/C/Users/fbmjo/OneDrive/Desktop/jquery/selecionando_elementos_parte2.html",
+		"/C/xampp/htdocs/app_lista_tarefas_public/index.php",
+		"/C/Users/fbmjo/OneDrive/Documentos/MeusProjetos/app_tarefas/app_lista_tarefas/bd.sql",
+		"/C/Users/fbmjo/OneDrive/Desktop/jquery/index.html",
+		"/C/Users/fbmjo/OneDrive/Desktop/jquery/script.js",
+		"/C/Users/fbmjo/OneDrive/Desktop/jquery/recuperando_manipulando_atributos.html",
+		"/C/xampp/app_lista_tarefas/tarefa.service.php",
+		"/C/xampp/htdocs/app_lista_tarefas_public/css/estilo.css",
+		"/C/Users/fbmjo/OneDrive/Desktop/bd/bd.sql",
+		"/C/xampp/htdocs/app_lista_tarefas_public/nova_tarefa.php",
+		"/C/xampp/app_lista_tarefas/tarefa_controller.php",
+		"/C/xampp/htdocs/app_lista_tarefas_public/todas_tarefas.php",
+		"/C/xampp/app_lista_tarefas/tarefa.model.php",
+		"/C/xampp/htdocs/app_lista_tarefas_public/arquivos_da_aula/app_lista_tarefas/app_lista_tarefas_public/tarefa_controller.php",
+		"/C/xampp/htdocs/app_lista_tarefas_public/tarefa_controller.php",
+		"/C/xampp/htdocs/app_lista_tarefas_public/arquivos_da_aula/app_lista_tarefas/app_lista_tarefas_public/todas_tarefas.php",
+		"/C/xampp/htdocs/app_lista_tarefas_public/arquivos_da_aula/app_lista_tarefas/app_lista_tarefas/tarefa_controller.php",
+		"/C/xampp/app_lista_tarefas/conexao.php",
+		"/C/xampp/htdocs/php_com_pdo/index.php",
+		"/C/xampp/htdocs/php_com_pdo/Nova_pasta/index.php",
+		"/C/xampp/htdocs/php_com_pdo/Nova pasta/index.php",
+		"/F/quarto_semestre/prog_p_internet/css.css",
+		"/F/quarto_semestre/prog_p_internet/aula2.html",
+		"/C/xampp/htdocs/nova-loja/cabecalho.php",
+		"/C/xampp/htdocs/nova-loja/home.php",
+		"/C/xampp/htdocs/nova-loja/index.php",
+		"/C/xampp/htdocs/nova-loja/js/abas.js",
+		"/C/xampp/htdocs/nova-loja/rodape.php",
+		"/C/xampp/htdocs/nova-loja/detalhe.php",
+		"/C/xampp/htdocs/nova-loja/classes/conexaoMySQL.php",
+		"/C/xampp/htdocs/nova-loja/conexao.php",
+		"/C/xampp/htdocs/nova-loja/css/css.css",
+		"/C/xampp/htdocs/nova-loja/js/jquery-1.6.4.min.js",
+		"/C/xampp/htdocs/nova-loja/css/rodape.php",
+		"/G/[WE] Criando uma loja virtual com php e mysql - Orientado a Objetos - Mjailton/[WE] Criando uma loja virtual com php e mysql - Orientado a Objetos - Mjailton/Arquivos do curso/nova-loja/index.php",
+		"/C/xampp/htdocs/ajax/app_pesquisa_endereco/index.html",
+		"/C/xampp/htdocs/ajax/pagina_1_conteudo.php",
+		"/C/xampp/htdocs/ajax/filmes2.html",
+		"/C/xampp/htdocs/ajax/requisicoes_assincronas.html",
+		"/C/xampp/htdocs/ajax/filmes.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "conexao.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
